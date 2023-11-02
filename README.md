@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vlad Plyushchenko
-=========================================================================================================================================
+Hi 👋 My name is Vlad Plyushchenko
+==================================
 
 I am a UK high school student with an ambition to get into tech entrepreneurship in the US. Currently, I'm building up a broader theoretical understanding of computer science through the CS A-level and extracurricular projects.
 
