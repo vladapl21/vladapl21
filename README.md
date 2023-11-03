@@ -1,7 +1,7 @@
 Hi 👋 My name is Vlad Plyushchenko
 ==================================
 
-I am a UK high school student with an ambition to get into tech entrepreneurship in the US. Currently, I'm building up a broader theoretical understanding of computer science through the CS A-level and extracurricular projects.
+I am a UK high school student with an ambition to get into tech entrepreneurship in the US. Currently, I'm building up a theoretical understanding of computer science through the CS A-level and extracurricular projects. I only recently started to upload past projects to GitHub, which is why activity is low.
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [vladplyu@gmail.com](mailto:vladplyu@gmail.com)
