@@ -7,7 +7,7 @@ I am a UK high school student with an ambition to get into tech entrepreneurship
 * 🖥️  See my portfolio at [this Pages Website](http://vladapl21.github.io)
 * ✉️  You can contact me at [vladplyu@gmail.com](mailto:vladplyu@gmail.com)
 * 🚀  I'm currently working on [GreenEnterprise - International Entrepreneurhip Competition](http://greenenterprise.harrowschool.io)
-* 🧠  I'm learning Pandas
+* 🧠  I'm learning pandas, NumPy for Python Data Analysis & Manipulation
 
 ### Skills
 
