@@ -4,7 +4,7 @@ Hi 👋 My name is Vlad Plyushchenko
 I am a UK high school student with an ambition to get into tech entrepreneurship in the US. Currently, I'm building up a theoretical understanding of computer science through the CS A-level and extracurricular projects. I only recently started to upload past projects to GitHub.
 
 * 🌍  I'm based in London
-* 🖥️  See my portfolio at [this Website](http://vladapl21.github.io)
+* 🖥️  See my portfolio on [this Website](http://vladapl21.github.io)
 * ✉️  You can contact me at [vladplyu@gmail.com](mailto:vladplyu@gmail.com)
 * 🚀  I'm currently working on [GreenEnterprise - International Entrepreneurhip Competition](http://greenenterprise.harrowschool.io)
 * 🧠  I'm learning pandas, NumPy for Python Data Analysis & Manipulation
