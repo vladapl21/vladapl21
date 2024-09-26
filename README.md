@@ -1,7 +1,8 @@
 Hi 👋 My name is Vlad Plyushchenko
 ==================================
 
-I am a UK high school student with an ambition to get into tech entrepreneurship in the US. Currently, I'm building up a theoretical understanding of computer science through the CS A-level and extracurricular projects. I only started actively using GitHub recently, but I've been coding independently for multiple years.
+I'm currently a UCLA first-year Computer Science student and have previously completed schooling in London at Harrow School. I'm interested in pursuing the intersection of Finance, Business, and Computer Science through organizations at university and creating specific personal projects in areas such as Algo-Trading, AI, and Cybersecurity.
+
 
 * 🌍  I'm based in London
 * 🖥️  See my portfolio on [this Website](http://vladapl21.github.io)
