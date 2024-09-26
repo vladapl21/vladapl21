@@ -1,7 +1,7 @@
 Hi 👋 My name is Vlad Plyushchenko
 ==================================
 
-I'm currently a UCLA first-year Computer Science student and have previously completed schooling in London at Harrow School. I'm interested in pursuing the intersection of Finance, Business, and Computer Science through organizations at university and creating specific personal projects in areas such as Algo-Trading, AI, and Cybersecurity.
+I'm a first-year Computer Science student at UCLA and have previously attended Harrow School in London for GCSE and A-level programs. I'm interested in pursuing the intersection of Finance, Business, and Computer Science through organizations at university and creating specific personal projects in areas such as Algo-Trading, AI, and Cybersecurity.
 
 
 * 🌍  I'm based in London
