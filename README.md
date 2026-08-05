@@ -1,14 +1,12 @@
 Hi 👋 My name is Vlad Plyushchenko
 ==================================
 
-I'm a first-year Computer Science student at UCLA and have previously attended Harrow School in London for GCSE and A-level programs. I'm interested in pursuing the intersection of Finance, Business, and Computer Science through organizations at university and creating specific personal projects in areas such as Algo-Trading, AI, and Cybersecurity.
+Computer Science with Math and Economics concentrations at UCLA, graduating June 2028. Before that, Harrow School in London.
 
+Most of what I build sits somewhere between systems and markets — optical simulation for lunar communications, computer vision running on live video, and low-latency data paths for commodity trading.
 
-* 🌍  I'm based in London
-* 🖥️  See my portfolio on [this Website](http://vladapl21.github.io)
-* ✉️  You can contact me at [vladplyu@gmail.com](mailto:vladplyu@gmail.com)
-* 🚀  I'm currently creating and updating [GreenEnterprise - International Entrepreneurhip Competition](http://greenenterprise.harrowschool.io)
-* 🧠  I'm learning pandas, NumPy for Python Data Analysis & Manipulation
+* 🌍  I'm based in Los Angeles
+* ✉️  You can contact me at [vladplyushchenko@gmail.com](mailto:vladplyushchenko@gmail.com)
 
 ### Skills
 
