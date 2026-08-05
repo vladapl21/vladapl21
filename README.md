@@ -1,4 +1,4 @@
-Hi 👋 My name is Vlad Plyushchenko
+Vlad Plyushchenko
 ==================================
 
 Computer Science with Math and Economics concentrations at UCLA, graduating June 2028. Before that, Harrow School in London.
