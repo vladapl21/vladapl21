@@ -3,7 +3,7 @@ Vlad Plyushchenko
 
 Computer Science with Math and Economics concentrations at UCLA, graduating June 2028. Before that, Harrow School in London.
 
-Most of what I build sits somewhere between systems and markets — optical simulation for lunar communications, computer vision running on live video, and low-latency data paths for commodity trading.
+I build and ship interesting projects in AI, Math, and Business/Econometrics.
 
 * 🌍  I'm based in Los Angeles
 * ✉️  You can contact me at [vladplyushchenko@gmail.com](mailto:vladplyushchenko@gmail.com)
